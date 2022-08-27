@@ -4,7 +4,7 @@
 See below images of the confirmation of transaction through Ganache.
 
 
-<img src='images/ganache_acct_transaction.png'/>
+<img src='images/ganache_acct_transaction.jpeg'/>
 
 
 
