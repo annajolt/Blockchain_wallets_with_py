@@ -13,5 +13,5 @@ See below images of the confirmation of transaction through Ganache.
 
 Ganache transaction block
 
-<img src='images/ganache_transact_block.png'/>
+![ganache_block](Images/ganache_transact_block.png)
 
